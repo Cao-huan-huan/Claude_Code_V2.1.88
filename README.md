@@ -1,7 +1,5 @@
 # Claude Code（泄露源码归档）
 
-[English](./README.md) | 中文 | [繁體中文](./README_ZH_TW.md) | [조선어](./README_KO.md) | [日本語](./README_JA.md) | [Español](./README_ES.md) | [Русский](./README_RU.md)
-
 <p align="center">
   <img src="https://img.shields.io/badge/status-archived%20%2B%20rebuilding-blue" />
   <img src="https://img.shields.io/badge/runtime-Bun%20%2F%20Node-black" />
@@ -179,7 +177,7 @@ KAIROS 能使用一些普通 Claude Code 没有的工具：
 | **PushNotification** | 向用户设备发送推送通知 |
 | **SubscribePR** | 订阅并监控 PR 活动 |
 
- ---
+---
 
 ## ULTRAPLAN - 30 分钟远程规划会话
 
